@@ -18,3 +18,7 @@ copyright = "Copyright © 2026, slidingsoul5."
 
 [params]
   favicon = "favicon.ico"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
