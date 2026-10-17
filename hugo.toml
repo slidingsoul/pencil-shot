@@ -1,0 +1,20 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+theme = 'hugo-bearblog'
+
+title = "Pencil Shot"
+author = "slidingsoul5"
+copyright = "Copyright © 2026, slidingsoul5."
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "Profile"
+  url = "/profile/"
+  weight = 2
+
+[params]
+  favicon = "favicon.ico"
