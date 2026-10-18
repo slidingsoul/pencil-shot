@@ -16,8 +16,13 @@ copyright = "Copyright © 2026, slidingsoul5."
   url = "/profile/"
   weight = 2
 
+[[menus.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 3
+
 [params]
-  favicon = "favicon.ico"
+  favicon = "favicon.png"
 
 [caches]
   [caches.images]
